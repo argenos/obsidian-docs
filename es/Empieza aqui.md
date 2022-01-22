@@ -2,6 +2,8 @@
 
 Al mismo tiempo, también soy solo un archivo de Markdown que se encuentra en su disco duro. Todo está en texto plano, así que no tienes que preocuparte por perderme en caso de que [[Obsidian]] desaparezca algún día.
 
+Esto es una prueba!
+
 ## Inicio rápido
 
 Si tiene prisa, aquí hay algunos lugares rápidos para sumergirse:
